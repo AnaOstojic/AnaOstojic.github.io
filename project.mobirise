@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TK Beli Sport",
-    "currentPage": "pabeton-liga.html",
+    "currentPage": "beton-liga.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -1066,7 +1066,7 @@
         }
       ]
     },
-    "pabeton-liga.html": {
+    "beton-liga.html": {
       "settings": {
         "title": "Beton-liga",
         "order": 1
